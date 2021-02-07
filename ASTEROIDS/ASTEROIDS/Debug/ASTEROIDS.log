@@ -1,0 +1,33 @@
+﻿  game.cpp
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\bullet.h(62,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\bullet.h(63,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\rocks.h(123,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\rocks.h(141,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\rocks.h(142,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\rocks.h(143,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\rocks.h(144,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\rocks.h(174,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\rocks.h(175,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\rocks.h(176,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\rocks.h(177,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\rocks.h(206,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\rocks.h(207,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\rocks.h(208,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\rocks.h(209,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\game.cpp(43,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\game.cpp(43,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\game.cpp(57,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\game.cpp(72,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\game.cpp(87,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\game.cpp(101,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\game.cpp(126,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\game.cpp(136,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\game.cpp(203,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\game.cpp(212,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\game.cpp(267,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\game.cpp(276,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\game.cpp(418,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\game.cpp(423,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\game.cpp(427,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nobib\source\repos\ASTEROIDS\ASTEROIDS\game.cpp(431,23): warning C4018: '<': signed/unsigned mismatch
+  ASTEROIDS.vcxproj -> C:\Users\nobib\source\repos\ASTEROIDS\Debug\ASTEROIDS.exe

@@ -1,0 +1,7 @@
+﻿  driver.cpp
+  game.cpp
+C:\Users\nobib\Desktop\cs165\week 7\game.cpp(35,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nobib\Desktop\cs165\week 7\game.cpp(65,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  uiInteract.cpp
+  Generating Code...
+  MOONLANDERFINAL.vcxproj -> C:\Users\nobib\source\repos\MOONLANDERFINAL\Debug\MOONLANDERFINAL.exe
